@@ -95,7 +95,7 @@ ggrh @{1} && git branch -f feature feature@{1}
 # transplant range onto new branch
 git transplant --new-from=feature file-b-three-bar..master feature2
 
-ggrh @{1} && git branch -f feature feature@{1} && git branch -D feature2
+ggrh @{1} && git branch -D feature2
 
 # transplant range inside new branch
 git transplant --new-from=feature^^ file-b-three-bar..master feature2
@@ -119,6 +119,7 @@ git deps -s
 ################################################################
 ## git-deps backporting demo
 
+cd ~/londongit
 bash create-repo.sh </dev/null && ( cd test-repo && gitk --all & )
 git deps -e `git merge-base master stable` master^!
 git checkout stable
