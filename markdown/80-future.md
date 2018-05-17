@@ -9,7 +9,7 @@
 *   <!-- .element: class="fragment" -->
     Fix bugs
 *   <!-- .element: class="fragment" -->
-    Document
+    Improve (write) documentation
 *   <!-- .element: class="fragment" -->
     Figure out whether `splice` and `transplant` could be incorporated
     into `git`'s existing sequencer

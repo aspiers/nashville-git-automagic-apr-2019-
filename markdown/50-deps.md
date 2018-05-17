@@ -8,3 +8,7 @@
     Uses `blame`
 *   <!-- .element: class="fragment" -->
     Uses `pygit2` and `libgit2`!
+
+
+<!-- .slide: data-state="section-break" id="deps-demo" data-menu-title="git-deps demo" data-timing="40" -->
+# `git-deps` demo

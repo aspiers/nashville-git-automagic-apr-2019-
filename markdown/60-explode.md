@@ -2,8 +2,16 @@
 <img alt="Firework" src="images/firework1.jpg"/>
 
 
-<!-- .slide: data-state="normal" id="explode" data-timing="40" -->
+<!-- .slide: data-state="normal" id="explode" data-menu-title="Details" data-timing="40" -->
 # git-explode
 
-*   Python module with CLI
-*   Re-uses dependency detection library from `git-deps`
+*   Explodes a linear sequence of git commits into
+    new independent topic branches
+*   <!-- .element: class="fragment" -->
+    Python module with CLI
+*   <!-- .element: class="fragment" -->
+    Re-uses dependency detection library from `git-deps`
+
+
+<!-- .slide: data-state="section-break" id="explode-demo" data-menu-title="git-explode demo" data-timing="40" -->
+# `git-explode` demo

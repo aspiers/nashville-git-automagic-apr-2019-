@@ -1,8 +1,8 @@
-<!-- .slide: data-state="blank-slide" class="full-screen" id="splice" data-menu-title="git-splice" data-timing="40" -->
+<!-- .slide: data-state="blank-slide" class="full-screen" id="splice-transplant" data-menu-title="git-splice and git-transplant" data-timing="40" -->
 <img alt="Splicing video tape" src="images/splice.jpg"/>
 
 
-<!-- .slide: data-state="normal" id="splice-info" data-menu-title="Details" data-timing="40" -->
+<!-- .slide: data-state="normal" id="splice" data-menu-title="git-splice" data-timing="40" -->
 # `git-splice`
 
 *   Splices commits into/out of current branch
@@ -18,6 +18,10 @@
     2017](https://public-inbox.org/git/20170801011421.veyuviur3mi4hjir@pacific.linksys.moosehall/)
 
 
+<!-- .slide: data-state="section-break" id="splice-demo" data-menu-title="git-splice demo" data-timing="40" -->
+# `git-splice` demo
+
+
 <!-- .slide: data-state="normal" id="transplant" data-menu-title="git-transplant" data-timing="40" -->
 # `git-transplant`
 
@@ -29,7 +33,12 @@
 *   <!-- .element: class="fragment" -->
     Both tools [*reasonably* well received by
     Junio](https://public-inbox.org/git/20170801011421.veyuviur3mi4hjir@pacific.linksys.moosehall/) ;-)
+    *   But more (design) work needed
 *   <!-- .element: class="fragment" -->
     [Originally intended as a primitive for use in implementing
     `git-explode`](https://public-inbox.org/git/20170801011421.veyuviur3mi4hjir@pacific.linksys.moosehall/)
     *   That didn't work out, but useful in its own right
+
+
+<!-- .slide: data-state="section-break" id="transplant-demo" data-menu-title="git-transplant demo" data-timing="40" -->
+# `git-transplant` demo
