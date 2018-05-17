@@ -3,6 +3,8 @@
 
 *   Automatically detects textual dependencies between commits
 *   <!-- .element: class="fragment" -->
+    https://github.com/aspiers/git-deps
+*   <!-- .element: class="fragment" -->
     Python module with CLI and web UIs
 *   <!-- .element: class="fragment" -->
     Uses `blame`

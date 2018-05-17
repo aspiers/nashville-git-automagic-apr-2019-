@@ -1,4 +1,4 @@
-<!-- .slide: data-state="blank-slide" class="full-screen" id="explode" data-menu-title="git-explode" data-timing="40" -->
+<!-- .slide: data-state="blank-slide" class="full-screen" id="firework" data-menu-title="git-explode" data-timing="40" -->
 <img alt="Firework" src="images/firework1.jpg"/>
 
 
@@ -7,6 +7,8 @@
 
 *   Explodes a linear sequence of git commits into
     new independent topic branches
+*   <!-- .element: class="fragment" -->
+    https://github.com/aspiers/git-explode (published today!)
 *   <!-- .element: class="fragment" -->
     Python module with CLI
 *   <!-- .element: class="fragment" -->
