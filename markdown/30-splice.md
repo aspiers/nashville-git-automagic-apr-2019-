@@ -9,3 +9,8 @@
 *   <!-- .element: class="fragment" -->
     First announced [on the `git` mailing list in May
     2016](https://public-inbox.org/git/20160527140811.GB11256@pacific.linksys.moosehall/)
+*   <!-- .element: class="fragment" -->
+    Revitalised during subsequent [SUSE Hack Week](https://hackweek.suse.com/about)
+*   <!-- .element: class="fragment" -->
+    Further discussion [on the `git` mailing list in August
+    2017](https://public-inbox.org/git/20170801011421.veyuviur3mi4hjir@pacific.linksys.moosehall/)
