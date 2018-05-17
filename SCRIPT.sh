@@ -102,7 +102,30 @@ git transplant --new-from=feature^^ file-b-three-bar..master feature2
 
 ggrh @{1} && git branch -D feature2
 
+################################################################
+## git-deps basic demo
 
-## git-deps
+git deps master^!
+git deps -l master^!
+git deps -l master^^!
+git deps -l master^^^!
 
+git deps -s
+# Try:
+# master
+# master^
+# master^^
+
+################################################################
+## git-deps backporting demo
+
+bash create-repo.sh </dev/null && ( cd test-repo && gitk --all & )
+git deps -e `git merge-base master stable` master^!
+git checkout stable
+git cherry-pick $sha
+git cherry-pick master^!
+
+################################################################
 ## git-explode
+
+git explode file-b master
