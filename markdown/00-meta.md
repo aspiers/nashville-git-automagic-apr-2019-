@@ -15,4 +15,4 @@
 
 <div class="qrcode" id="qrcode-talk"/>
 <h2><a href="https://aspiers.github.io/london-git-automagic-may-2018/" target="_blank"
-       id="talk">https://goo.gl/FIXME/</a></h2>
+       id="talk">https://goo.gl/qtYnuo/</a></h2>
