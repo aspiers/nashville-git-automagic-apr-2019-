@@ -120,7 +120,9 @@ git deps -s
 ## git-deps backporting demo
 
 cd ~/londongit
-bash create-repo.sh </dev/null && ( cd test-repo && gitk --all & )
+bash create-repo.sh port </dev/null && ( cd test-repo && gitk --all & )
+cd test-repo
+
 git deps -e `git merge-base master stable` master^!
 git checkout stable
 git cherry-pick $sha
