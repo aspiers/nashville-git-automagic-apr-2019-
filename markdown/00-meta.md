@@ -13,6 +13,14 @@
 
 <!-- .slide: data-state="qrcode" id="qrcode" data-menu-title="QR code" data-timing="0" -->
 
+<h2 style="font-size: 110%">
+    <a href="https://aspiers.github.io/london-git-automagic-may-2018/" target="_blank"
+       >https://aspiers.github.io/london-git-automagic-may-2018/</a>
+</h2>
+
 <div class="qrcode" id="qrcode-talk"/>
-<h2><a href="https://aspiers.github.io/london-git-automagic-may-2018/" target="_blank"
-       id="talk">https://goo.gl/qtYnuo/</a></h2>
+
+<h2 style="font-size: 120%">
+    <a href="https://aspiers.github.io/london-git-automagic-may-2018/" target="_blank"
+       id="talk">https://goo.gl/qtYnuo/</a>
+</h2>
