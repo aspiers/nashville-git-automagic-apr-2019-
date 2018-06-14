@@ -7,6 +7,7 @@
 *   Press `s` for speaker notes <br />
 *   Press `?` for more help on navigating these slides
 *   Here are the [details of the original event](https://www.meetup.com/londongit/events/248694943/)
+*   I've also [blogged about it](https://blog.adamspiers.org/git-auto-magic)
 
 
 <!-- .slide: data-state="qrcode" id="qrcode" data-menu-title="QR code" data-timing="0" -->
