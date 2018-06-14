@@ -1,10 +1,7 @@
 <!-- .slide: data-state="normal" id="about" data-timing="0" -->
 # About this presentation
 
-<!--
-*   You can now [watch the video of this presentation online](https://link/to/presentation/video)
--->
-
+*   You can now [watch the video of this presentation online](https://skillsmatter.com/skillscasts/11825-git-auto-magic)
 *   Press `?` for help on navigating these slides
 *   Press `m` for a slide menu
 *   Press `s` for speaker notes <br />
