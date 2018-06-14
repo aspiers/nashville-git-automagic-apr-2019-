@@ -8,7 +8,8 @@ Reveal.initialize({
 
     margin: 0.01,
 
-    controls: false,
+    controls: true, // press C to toggle
+    controlsTutorial: true,
     slideNumber: true,
     progress: true,
     history: true,
@@ -37,6 +38,18 @@ Reveal.initialize({
         { src: 'reveal.js/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } },
         { src: 'reveal.js-menu/menu.js', async: true, condition: function() { return !!document.body.classList; } }
     ]
+});
+
+Reveal.configure({
+    keyboard: {
+        13: 'next', // go to the next slide when the ENTER key is pressed
+        27: function() {}, // do something custom when ESC is pressed
+        32: null, // don't do anything when SPACE is pressed (i.e. disable a reveal.js default binding)
+        // Make 'C' toggle controls
+        67: function() {
+            Reveal.configure({ controls: ! Reveal.getConfig()['controls'] });
+        },
+  }
 });
 
 // If we wanted mouse clicks to advance to next / previous slides, this is

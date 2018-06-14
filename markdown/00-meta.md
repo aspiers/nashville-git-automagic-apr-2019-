@@ -2,9 +2,10 @@
 # About this presentation
 
 *   You can now [watch the video of this presentation online](https://skillsmatter.com/skillscasts/11825-git-auto-magic)
-*   Press `?` for help on navigating these slides
+*   Press `n` / `p` to move to next / previous slide
 *   Press `m` for a slide menu
 *   Press `s` for speaker notes <br />
+*   Press `?` for more help on navigating these slides
 *   Here are the [details of the original event](https://www.meetup.com/londongit/events/248694943/)
 
 
