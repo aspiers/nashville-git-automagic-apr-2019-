@@ -132,3 +132,6 @@ git cherry-pick master^!
 ## git-explode
 
 git explode file-b master
+
+# Delete the new topic branches
+git show-ref G /topic A2 X1r git update-ref -d
