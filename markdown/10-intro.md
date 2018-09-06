@@ -21,9 +21,6 @@
 <!-- .slide: data-state="normal" id="agenda" data-timing="40" -->
 # Agenda
 
-*   Problems
-*   git-splice
-*   git-transplant
 *   git-deps
-*   git-explode (world premiere!!)
-*   Discussion
+*   git-explode
+*   Q&A (if there's time)
