@@ -2,9 +2,9 @@
 
 ## Presentation for Git London User Group Meetup, 17th May 2018
 
-This repo contains the source code for slides presented to the [Git
-London User Group](http://londongit.org/)'s [Meetup event on 17th May
-2018](https://www.meetup.com/londongit/events/248694943/).
+This repo contains the source code for slides and demos presented at a
+lunchtime lightning talk on 17th May 2018 at the [OpenStack PTG Denver
+meetup](https://www.openstack.org/ptg).
 
 It is based on
 [a template by Adam Spiers](https://github.com/aspiers/presentation-template/)
@@ -15,7 +15,7 @@ Hakim El-Hattab and contributors) as the underlying presentation
 technology.
 
 **You can
-[view the slides online](http://aspiers.github.io/london-git-automagic-may-2018/)
+[view the slides online](http://aspiers.github.io/denver-git-automagic-sept-2018/)
 here**; press `Space` to advance 1 slide at a time, or `?` for help.
 
 ## How to use
@@ -29,6 +29,6 @@ also find me on Freenode IRC as `aspiers`.
 
 Also, if you notice any areas for improvement, please submit issues
 and pull requests via
-[this repository](https://github.com/aspiers/london-git-automagic-may-2018/).
+[this repository](https://github.com/aspiers/denver-git-automagic-sept-2018/).
 
 Thanks!
