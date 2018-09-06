@@ -17,6 +17,14 @@
     </div>
 </div>
 
+<div class="qr-embedded">
+    <div class="qr-embedded-wrapper">
+        <div class="qrcode" id="qrcode-talk-embedded" />
+    </div>
+    <h2><a href="https://goo.gl/FIXME" target="_blank"
+           id="talk-embedded">https://goo.gl/FIXME</a></h2>
+</div>
+
 
 <!-- .slide: data-state="normal" id="agenda" data-timing="40" -->
 # Agenda
