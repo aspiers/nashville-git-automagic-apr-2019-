@@ -9,9 +9,7 @@
 *   Press `m` for a slide menu
 *   Press `s` for speaker notes <br />
 *   Press `?` for more help on navigating these slides
-<!--
-*   Here are the [details of the original event](https://www.meetup.com/londongit/events/248694943/)
--->
+*   Here are the [details of the original event](https://openstack.org/ptg/)
 *   I've also [blogged about this topic](https://blog.adamspiers.org/git-auto-magic)
 
 <!-- .slide: data-state="qrcode" id="qrcode" data-menu-title="QR code" data-timing="0" -->

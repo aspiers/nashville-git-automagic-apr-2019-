@@ -3,8 +3,8 @@
     <h1>git auto-magic!</h1>
     <h2 style="margin-bottom: 50px;">Higher-level branch manipulation workflows</h2>
     <h3>
-        <a href="https://www.meetup.com/londongit/events/248694943/">
-            Git London User Group, Thursday 17<sup>th</sup> March 2018
+        <a href="https://openstack.org/ptg">
+            OpenStack PTG, Denver, Tuesday 11<sup>th</sup> Sept 2018
         </a>
     </h3>
 </div>
