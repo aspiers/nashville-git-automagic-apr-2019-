@@ -13,7 +13,7 @@
     <div class="presenter presenter-1">
         <h3 class="name">Adam Spiers</h3>
         <h3 class="job-title">Senior Software Architect, SUSE</h3>
-        <h3 class="email"><a href="mailto:aspiers@suse.com">git@adamspiers.org</a></h3>
+        <h3 class="email"><a href="mailto:aspiers@suse.com">aspiers@suse.com</a></h3>
     </div>
 </div>
 
