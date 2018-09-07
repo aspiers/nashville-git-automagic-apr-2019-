@@ -1,3 +1,7 @@
+<!-- .slide: data-state="blank-slide" class="full-screen" id="magnifying-glass" data-menu-title="Dependencies" data-timing="40" -->
+<img alt="Magnifying glass inspecting dependencies" src="images/dependency.jpg"/>
+
+
 <!-- .slide: data-state="normal" id="deps" data-timing="40" -->
 # git-deps
 
