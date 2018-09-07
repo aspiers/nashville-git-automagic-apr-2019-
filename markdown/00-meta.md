@@ -12,6 +12,7 @@
 *   Here are the [details of the original event](https://openstack.org/ptg/)
 *   I've also [blogged about this topic](https://blog.adamspiers.org/git-auto-magic)
 
+
 <!-- .slide: data-state="qrcode" id="qrcode" data-menu-title="QR code" data-timing="0" -->
 
 <h2 style="font-size: 110%">
