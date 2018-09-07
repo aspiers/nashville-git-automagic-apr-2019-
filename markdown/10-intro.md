@@ -31,4 +31,4 @@
 
 *   git-deps
 *   git-explode
-*   Q&A (if there's time)
+*   Grab me after for Q&A
