@@ -8,7 +8,7 @@
 *   Explodes a linear sequence of git commits into
     new independent topic branches
 *   <!-- .element: class="fragment" -->
-    https://github.com/aspiers/git-explode (published today!)
+    https://github.com/aspiers/git-explode
 *   <!-- .element: class="fragment" -->
     Python module with CLI
 *   <!-- .element: class="fragment" -->
