@@ -26,7 +26,7 @@
 </div>
 
 
-<!-- .slide: data-state="normal" id="agenda" data-timing="40" -->
+<!-- .slide: data-state="normal" id="agenda" data-timing="20" -->
 # Agenda
 
 *   git-deps

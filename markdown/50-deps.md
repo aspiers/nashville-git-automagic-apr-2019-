@@ -1,4 +1,4 @@
-<!-- .slide: data-state="blank-slide" class="full-screen" id="magnifying-glass" data-menu-title="git-deps" data-timing="40" -->
+<!-- .slide: data-state="blank-slide" class="full-screen" id="magnifying-glass" data-menu-title="git-deps" data-timing="20" -->
 <img alt="Magnifying glass inspecting dependencies" src="images/dependency.jpg"/>
 
 Note:
@@ -137,5 +137,5 @@ Note:
 A full solution would require peer review, CI, and thorough testing!!
 
 
-<!-- .slide: data-state="section-break" id="deps-demo" data-menu-title="git-deps demo" data-timing="40" -->
+<!-- .slide: data-state="section-break" id="deps-demo" data-menu-title="Demo" data-timing="300" -->
 # `git-deps` demo

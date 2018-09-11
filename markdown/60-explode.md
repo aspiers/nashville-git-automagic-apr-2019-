@@ -55,5 +55,5 @@
     https://github.com/aspiers/git-explode
 
 
-<!-- .slide: data-state="section-break" id="explode-demo" data-menu-title="git-explode demo" data-timing="40" -->
+<!-- .slide: data-state="section-break" id="explode-demo" data-menu-title="Demo" data-timing="120" -->
 # `git-explode` demo
