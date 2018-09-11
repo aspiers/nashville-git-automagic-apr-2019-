@@ -8,11 +8,11 @@
 *   Explodes a linear sequence of git commits into
     new independent topic branches
 *   <!-- .element: class="fragment" -->
-    https://github.com/aspiers/git-explode
-*   <!-- .element: class="fragment" -->
     Python module with CLI
 *   <!-- .element: class="fragment" -->
     Re-uses dependency detection library from `git-deps`
+*   <!-- .element: class="fragment" -->
+    https://github.com/aspiers/git-explode
 
 
 <!-- .slide: data-state="section-break" id="explode-demo" data-menu-title="git-explode demo" data-timing="40" -->
