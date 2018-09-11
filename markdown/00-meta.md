@@ -24,5 +24,5 @@
 
 <h2 style="font-size: 120%">
     <a href="https://aspiers.github.io/denver-git-automagic-sept-2018/" target="_blank"
-       id="talk">https://goo.gl/qtYnuo/</a>
+       id="talk">https://goo.gl/gBre2W/</a>
 </h2>
