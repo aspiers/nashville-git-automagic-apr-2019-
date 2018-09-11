@@ -100,7 +100,9 @@ Chronological  <!-- .element: class="fragment" --> parent-child relationship tel
 # `git-deps` implementation details
 
 *   <!-- .element: class="fragment" -->
-    Python module with CLI and optional web UI (`flask`)
+    Python module with CLI
+*   <!-- .element: class="fragment" -->
+    Optional web UI for visualising dependency tree (`flask`, `d3.js`)
 *   <!-- .element: class="fragment" -->
     Depends on `pygit2` and `libgit2`
 *   <!-- .element: class="fragment" -->
