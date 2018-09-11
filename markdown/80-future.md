@@ -1,5 +1,5 @@
 <!-- .slide: data-state="section-break" id="future" data-timing="40" -->
-# Current and future work
+# Future work
 
 
 <!-- .slide: data-state="normal" id="next-steps" data-menu-title="" data-timing="40" -->
@@ -9,9 +9,6 @@
 *   <!-- .element: class="fragment" -->
     Fix bugs
 *   <!-- .element: class="fragment" -->
-    Improve (write) documentation
-*   <!-- .element: class="fragment" -->
-    Figure out whether `splice` and `transplant` could be incorporated
-    into `git`'s existing sequencer
+    Improve (write) documentation and tests
 *   <!-- .element: class="fragment" -->
     React to user feedback
