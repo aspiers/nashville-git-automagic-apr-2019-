@@ -26,7 +26,7 @@ git deps -h
 c
 
 git deps -e origin/stable/pike to-backport^!
-git deps -e origin/stable/pike -l to-backport^!
+git deps -l -r -e origin/stable/pike to-backport^!
 
 git deps -s -e origin/stable/pike
 
