@@ -92,6 +92,8 @@ Chronological  <!-- .element: class="fragment" --> parent-child relationship tel
 *   <!-- .element: class="fragment" -->
     Can I automatically split a sequence of commits into independent
     subgroups?
+*   <!-- .element: class="fragment" -->
+    &lt;insert your ideas here&gt;
 
 
 <!-- .slide: data-state="normal" id="git-deps-implementation" data-timing="40" data-menu-title="Implementation" -->

@@ -1,5 +1,5 @@
 <!-- .slide: data-state="normal" id="feedback" data-menu-title="Feedback" -->
-# Questions?
+# Thank you!
 
 <div class="call-to-action">
     <h2 class="inside">
@@ -9,9 +9,6 @@
         <ul>
             <li> https://aspiers.github.io/#git
         </ul>
-    </h2>
-    <h2 class="outside">
-        Thank you.
     </h2>
 </div>
 

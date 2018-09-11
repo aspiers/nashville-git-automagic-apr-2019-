@@ -7,8 +7,13 @@
 
 *   Spread the word wider about these tools
 *   <!-- .element: class="fragment" -->
+    Support any OpenStack developers who want to use them
+*   <!-- .element: class="fragment" -->
+    Non-voting gating job providing estimate of difficulty of <br/>
+    backporting commit to stable branches?
+*   <!-- .element: class="fragment" -->
     Fix bugs
 *   <!-- .element: class="fragment" -->
-    Improve (write) documentation and tests
+    Improve documentation and (write) tests
 *   <!-- .element: class="fragment" -->
     React to user feedback
