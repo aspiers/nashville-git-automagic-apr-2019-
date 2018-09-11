@@ -12,6 +12,8 @@
     Non-voting gating job providing estimate of difficulty of <br/>
     backporting commit to stable branches?
 *   <!-- .element: class="fragment" -->
+    Find a way to improve `blame` performance
+*   <!-- .element: class="fragment" -->
     Fix bugs
 *   <!-- .element: class="fragment" -->
     Improve documentation and (write) tests
