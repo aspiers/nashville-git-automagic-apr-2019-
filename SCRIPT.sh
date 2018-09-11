@@ -28,7 +28,7 @@ c
 git deps -e origin/stable/pike to-backport^!
 git deps -e origin/stable/pike -l to-backport^!
 
-git deps -s -e origin/stable/pike &
+git deps -s -e origin/stable/pike
 
 git cherry-pick d9af50b131fedfdf960eecff9093dfeadd6763af
 git cherry-pick f36fc239804fb8fbf57d9df0320e2cb6d315ea10
