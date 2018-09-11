@@ -1,7 +1,7 @@
 <!-- .slide: data-state="cover" id="cover-page" data-menu-title="Introduction" data-timing="40" -->
 <div class="title">
-    <h1>git auto-magic!</h1>
-    <h2 style="margin-bottom: 50px;">Higher-level branch manipulation workflows</h2>
+    <h1>git-deps and git-explode</h1>
+    <h2 style="margin-bottom: 50px;">Fun with analysis of git commit dependencies</h2>
     <h3>
         <a href="https://openstack.org/ptg">
             OpenStack PTG, Denver, Tuesday 11<sup>th</sup> Sept 2018
