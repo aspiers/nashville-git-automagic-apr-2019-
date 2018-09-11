@@ -45,7 +45,6 @@ sanctioned presentation slide-deck colours.
     }
 
     .lang-dos .hljs-flow,
-    .diff .hljs-change,
     .python .exception,
     .python .hljs-built_in,
     .hljs-literal,
@@ -53,7 +52,6 @@ sanctioned presentation slide-deck colours.
         color: $dark-orange;
     }
 
-    .diff .hljs-chunk,
     .hljs-subst {
         color: $medium-neutral;
     }
@@ -62,7 +60,6 @@ sanctioned presentation slide-deck colours.
     .hljs-decorator,
     .hljs-title,
     .hljs-type,
-    .diff .hljs-header,
     .lang-ruby .hljs-class .hljs-parent,
     .lang-apache .hljs-tag,
     .nginx .hljs-built_in,
@@ -79,7 +76,6 @@ sanctioned presentation slide-deck colours.
         color: $bright-magenta;
     }
 
-    .diff .hljs-deletion,
     .hljs-string,
     .hljs-tag .hljs-value,
     .hljs-preprocessor,
@@ -97,8 +93,25 @@ sanctioned presentation slide-deck colours.
         color: $bright-teal;
     }
 
+    .lang-diff {
+        .hljs-change {
+            color: $bright-blue;
+        }
+        .hljs-chunk {
+            color: $bright-teal;
+        }
+        .hljs-header {
+            color: $light-yellow;
+        }
+        .hljs-deletion {
+            color: $bright-red;
+            }
+        .hljs-addition {
+            color: $SUSE-green;
+        }
+    }
+
     .hljs-shebang,
-    .diff .hljs-addition,
     .hljs-comment,
     .hljs-annotation,
     .hljs-pi,
