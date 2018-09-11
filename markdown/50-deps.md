@@ -115,7 +115,7 @@ Chronological  <!-- .element: class="fragment" --> parent-child relationship tel
 *   <!-- .element: class="fragment" -->
     https://review.openstack.org/#/c/514504/
 
-### Solution <!-- .element: class="fragment" -->
+### (Partial) solution <!-- .element: class="fragment" -->
 
 *   <!-- .element: class="fragment" -->
     `git tag to-backport 46b8da35`
@@ -127,6 +127,10 @@ Chronological  <!-- .element: class="fragment" --> parent-child relationship tel
     `    tsort | \` <br />
     `    tac | \` <br />
     `    xargs -t git cherry-pick`
+
+Note:
+
+A full solution would require peer review, CI, and thorough testing!!
 
 
 <!-- .slide: data-state="section-break" id="deps-demo" data-menu-title="git-deps demo" data-timing="40" -->
