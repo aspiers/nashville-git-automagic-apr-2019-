@@ -1,9 +1,7 @@
 <!-- .slide: data-state="normal" id="about" data-timing="0" -->
 # About this presentation
 
-<!--
-*   You can now [watch the video of this presentation online](https://link/to/presentation/video)
--->
+*   You can now [watch the video of this presentation online](https://youtu.be/f6anrSKCIgI)
 
 *   Press `n` / `p` to move to next / previous slide
 *   Press `m` for a slide menu
