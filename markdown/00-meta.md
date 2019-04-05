@@ -22,5 +22,5 @@
 
 <h2 style="font-size: 120%">
     <a href="https://aspiers.github.io/nashville-git-automagic-april-2019/" target="_blank"
-       id="talk">https://goo.gl/gBre2W/</a>
+       id="talk">https://bit.ly/2OSFMHm</a>
 </h2>

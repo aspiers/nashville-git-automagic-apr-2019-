@@ -22,7 +22,7 @@
         <div class="qrcode" id="qrcode-talk-embedded" />
     </div>
     <h2><a href="https://aspiers.github.io/nashville-git-automagic-april-2019/" target="_blank"
-           id="talk-embedded">https://goo.gl/gBre2W/</a></h2>
+           id="talk-embedded">https://bit.ly/2OSFMHm</a></h2>
 </div>
 
 
