@@ -2,8 +2,8 @@
 
 cd ~/OpenStack/git/cinder
 git checkout master
-git branch -D stable/pike
-git tag -d to-backport
+git branch -D stable/pike || :
+git tag -d to-backport || :
 cd ~/nashville-git/
 #./create-repo.sh </dev/null # && ( cd test-repo && gitk --all & )
 cd ~/nashville-git/test-repo
