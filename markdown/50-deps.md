@@ -67,7 +67,7 @@ sense to ensure that the number of lines chosen matches what's used
 when cherry-picking etc.
 
 
-<!-- .slide: data-state="normal" id="git-deps-motivation" data-timing="40" data-menu-title="Motivation" -->
+<!-- .slide: data-state="normal" id="git-deps-motivation" data-timing="60" data-menu-title="Motivation" -->
 ## Why should we care about textual dependencies?
 
 Chronological  <!-- .element: class="fragment" --> parent-child relationship tells us nothing about how the
