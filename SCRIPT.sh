@@ -36,7 +36,7 @@ git cherry-pick f36fc239804fb8fbf57d9df0320e2cb6d315ea10
 git cherry-pick to-backport
 
 c
-cat deps.txt
+git deps -r -e origin/stable/pike to-backport^! | tee deps.txt
 git reset --hard origin/stable/pike
 tsort deps.txt | tac | xargs -t git cherry-pick
 
