@@ -12,7 +12,7 @@ But what do we mean by dependencies?
 
 *   Automatically detects *textual* dependencies between commits
 *   <!-- .element: class="fragment" -->
-    "Which commits would I need in order to cherry-pick this one?"
+    "Which commits would I need in order to cherry-pick this one without conflicts?"
 
 <pre class="fragment">
 <code class="lang-diff hljs">
