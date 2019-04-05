@@ -1,9 +1,9 @@
 # git auto-magic!
 
-## Presentation for Git London User Group Meetup, 17th May 2018
+## Presentation for OpenStack PTG, 11th Sept 2018
 
 This repo contains the source code for slides and demos presented at a
-lunchtime lightning talk on 17th May 2018 at the [OpenStack PTG Denver
+lunchtime lightning talk on 11th Sept 2018 at the [OpenStack PTG Denver
 meetup](https://www.openstack.org/ptg).
 
 It is based on
