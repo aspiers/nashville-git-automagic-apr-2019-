@@ -26,9 +26,11 @@
 </div>
 
 
-<!-- .slide: data-state="normal" id="agenda" data-timing="20" -->
+<!-- .slide: data-state="normal" id="agenda" data-timing="30" -->
 # Agenda
 
 *   git-deps
 *   git-explode
+*   git-splice
+*   git-transplant
 *   Q&A
