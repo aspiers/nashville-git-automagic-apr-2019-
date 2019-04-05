@@ -7,6 +7,6 @@
 
 git explode -h
 c
-cd ~/denvergit/test-repo
+cd ~/nashville-git/test-repo
 gitk --all &
 git explode file-b master

@@ -44,6 +44,6 @@ tsort deps.txt | tac | xargs -t git cherry-pick
 c
 git explode -h
 c
-cd ~/denvergit/test-repo
+cd ~/nashville-git/test-repo
 gitk --all &
 git explode file-b master
