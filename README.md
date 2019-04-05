@@ -15,7 +15,7 @@ Hakim El-Hattab and contributors) as the underlying presentation
 technology.
 
 **You can
-[view the slides online](http://aspiers.github.io/denver-git-automagic-sept-2018/)
+[view the slides online](http://aspiers.github.io/nashville-git-automagic-apr-2019/)
 here**; press `Space` to advance 1 slide at a time, or `?` for help.
 
 ## How to use
@@ -29,6 +29,6 @@ also find me on Freenode IRC as `aspiers`.
 
 Also, if you notice any areas for improvement, please submit issues
 and pull requests via
-[this repository](https://github.com/aspiers/denver-git-automagic-sept-2018/).
+[this repository](https://github.com/aspiers/nashville-git-automagic-apr-2019/).
 
 Thanks!

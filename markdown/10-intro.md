@@ -4,7 +4,7 @@
     <h2 style="margin-bottom: 50px;">Fun with analysis of git commit dependencies</h2>
     <h3>
         <a href="https://openstack.org/ptg">
-            OpenStack PTG, Denver, Tuesday 11<sup>th</sup> Sept 2018
+            openSUSE Summit, Nashville, Saturday 6<sup>th</sup> April 2019
         </a>
     </h3>
 </div>
@@ -21,7 +21,7 @@
     <div class="qr-embedded-wrapper">
         <div class="qrcode" id="qrcode-talk-embedded" />
     </div>
-    <h2><a href="https://aspiers.github.io/denver-git-automagic-sept-2018/" target="_blank"
+    <h2><a href="https://aspiers.github.io/nashville-git-automagic-apr-2019/" target="_blank"
            id="talk-embedded">https://goo.gl/gBre2W/</a></h2>
 </div>
 
