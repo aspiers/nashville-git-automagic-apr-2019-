@@ -119,19 +119,6 @@ Chronological  <!-- .element: class="fragment" --> parent-child relationship tel
 *   <!-- .element: class="fragment" -->
     https://review.openstack.org/#/c/514504/
 
-### (Partial) solution <!-- .element: class="fragment" -->
-
-*   <!-- .element: class="fragment" -->
-    `git tag to-backport 46b8da35`
-*   <!-- .element: class="fragment" -->
-    `git checkout -t origin/stable/pike`
-*   <!-- .element: class="fragment" -->
-
-    `git deps -r -e origin/stable/pike to-backport^! | \` <br />
-    `    tsort | \` <br />
-    `    tac | \` <br />
-    `    xargs -t git cherry-pick`
-
 Note:
 
 A full solution would require peer review, CI, and thorough testing!!
