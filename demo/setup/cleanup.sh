@@ -9,7 +9,7 @@ git tag -d to-backport || :
 
 mkdir -p $DEMO_DIR
 cd $DEMO_DIR
-ln -sf ~/.GIT/adamspiers.org/nashville-git-automagic-april-2019/bin/create-repo.sh
+ln -sf ~/.GIT/adamspiers.org/nashville-git-automagic-april-2019/demo/setup/create-repo.sh
 
 ./create-repo.sh </dev/null # && ( cd test-repo && gitk --all & )
 cd ~/nashville-git/test-repo
