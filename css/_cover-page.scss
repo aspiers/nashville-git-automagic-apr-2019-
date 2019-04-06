@@ -86,11 +86,14 @@
             top: -2%;
             right: -7%;
             width: 50%;
-            height: 60%;
+            height: 50%;
 
-            .qrcode {
-                position: relative;
-                left: 30%;
+            .qr-embedded-wrapper {
+                text-align: right;
+
+                .qrcode {
+                    display: inline-block;
+                }
             }
 
             h2 {
