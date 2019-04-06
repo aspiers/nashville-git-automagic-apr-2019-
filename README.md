@@ -1,10 +1,11 @@
 # git auto-magic!
 
-## Presentation for OpenStack PTG, 11th Sept 2018
+## Presentation for openSUSE Summit in Nashville, April 2019
 
-This repo contains the source code for slides and demos presented at a
-lunchtime lightning talk on 11th Sept 2018 at the [OpenStack PTG Denver
-meetup](https://www.openstack.org/ptg).
+This repo contains the source code for slides and demos presented at
+[the openSUSE Summit in
+Nashville](https://events.opensuse.org/conferences/oSSN19/program/proposals/2309),
+on Saturday 6<sup>th</sup> April 2019.
 
 It is based on
 [a template by Adam Spiers](https://github.com/aspiers/presentation-template/)

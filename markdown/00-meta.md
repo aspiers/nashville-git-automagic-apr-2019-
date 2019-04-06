@@ -7,7 +7,7 @@
 *   Press `m` for a slide menu
 *   Press `s` for speaker notes <br />
 *   Press `?` for more help on navigating these slides
-*   Here are the [details of the original event](https://openstack.org/ptg/)
+*   Here are the [details of the original event](https://events.opensuse.org/conferences/oSSN19/program/proposals/2309)
 *   I've also [blogged about this topic](https://blog.adamspiers.org/git-auto-magic)
 
 
