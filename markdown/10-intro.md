@@ -34,6 +34,6 @@
 *   Problems with development
 *   git-deps
 *   git-explode
-*   git-splice
-*   git-transplant
+*   git-splice (maybe)
+*   git-transplant (maybe)
 *   Q&A
