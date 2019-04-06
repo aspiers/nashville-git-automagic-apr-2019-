@@ -26,26 +26,38 @@ Note:
 
 
 <!-- .slide: data-state="blank-slide" class="full-screen" id="all-teh-branches" data-menu-title="Argh" data-timing="40" -->
-<img alt="All teh branches!" src="images/all-teh-branches.jpg"/>
+<img alt="All teh branches!" src="images/all-teh-branches.jpg" />
+
+
+<!-- .slide: data-state="normal" id="whats-the-solution" data-timing="20" -->
+# What's the solution?
+
+### Any ideas?
+
+## Blame it on the tools!  <!-- .element: class="fragment" -->
+
+
+<!-- .slide: data-state="blank-slide" class="full-screen" id="one-job" data-menu-title="You had one job" data-timing="40" -->
+<img alt="You had one job (door with knob on the wrong way)" src="images/one-job.jpg" />
 
 
 <!-- .slide: data-state="normal" id="solution" data-menu-title="Solutions" data-timing="40" -->
 # What's the solution?
 
-*   <!-- .element: class="fragment" -->
-    Blame it on the tools!
+*   Blame it on the tools!
 *   <!-- .element: class="fragment" -->
     No seriously, give us better tools
 *   <!-- .element: class="fragment" -->
     More agility
 *   <!-- .element: class="fragment" -->
-    Spot common problems and automate
+    Spot common workflows and automate
 *   <!-- .element: class="fragment" -->
     Aim for higher-level workflows
 
 Note:
-Imagine a future IDE where you could drag and drop hunks
-between commits, and commits between branches.
+- git development is currently evolution rather than revolution
+- Imagine a future IDE where you could drag and drop hunks
+  between commits, and commits between branches.
 
 
 <!-- .slide: data-state="section-break" id="demos" data-menu-title="Demos" data-timing="40" -->
