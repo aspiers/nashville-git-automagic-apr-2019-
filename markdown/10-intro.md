@@ -29,6 +29,7 @@
 <!-- .slide: data-state="normal" id="agenda" data-timing="30" -->
 # Agenda
 
+*   Problems with development
 *   git-deps
 *   git-explode
 *   git-splice
