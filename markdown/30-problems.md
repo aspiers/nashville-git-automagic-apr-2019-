@@ -68,4 +68,10 @@ Note:
 <img alt="Keep Calm, It Just Works" src="images/keep-calm-it-just-works.jpg" />
 
 Note:
-Technical demos!
+I previously adopted a British approach, but somehow people
+have lost confidence in that, so maybe we need a proper demo
+god sacrifice.
+
+
+<!-- .slide: data-state="blank-slide" class="full-screen" id="demo-sacrifice" data-menu-title="Demo god sacrifice" data-timing="40" -->
+<img alt="Demo god sacrifice" src="images/sacrifice.jpg" />
