@@ -45,8 +45,7 @@ Note:
 # What's the solution?
 
 *   Blame it on the tools!
-*   <!-- .element: class="fragment" -->
-    No seriously, give us better tools
+*   No seriously, give us better tools
 *   <!-- .element: class="fragment" -->
     More agility
 *   <!-- .element: class="fragment" -->
