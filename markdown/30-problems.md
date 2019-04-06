@@ -14,9 +14,15 @@
 *   <!-- .element: class="fragment" -->
     We're human
 *   <!-- .element: class="fragment" -->
-    We're human
+    We have to deal with other humans
 
 <!-- .element: class="fragment" --> What does this mean when using `git`?
+
+Note:
+- We can't hope to conform to our own best practices 100% of the time
+- Code review is extremely worthwhile, but responding to
+  feedback can be a big time sink, especially when it involves
+  rewriting history of many commits.
 
 
 <!-- .slide: data-state="blank-slide" class="full-screen" id="all-teh-branches" data-menu-title="Argh" data-timing="40" -->
