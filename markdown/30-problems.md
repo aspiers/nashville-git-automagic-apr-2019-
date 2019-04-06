@@ -1,4 +1,4 @@
-<!-- .slide: data-state="normal" id="problems" data-menu-title="Problems" data-timing="40" -->
+<!-- .slide: data-state="normal" id="problems" data-menu-title="Problems" data-timing="60" -->
 # Problems with development
 
 *   <!-- .element: class="fragment" -->
@@ -25,11 +25,11 @@ Note:
   rewriting history of many commits.
 
 
-<!-- .slide: data-state="blank-slide" class="full-screen" id="all-teh-branches" data-menu-title="Argh" data-timing="40" -->
+<!-- .slide: data-state="blank-slide" class="full-screen" id="all-teh-branches" data-menu-title="Argh" data-timing="20" -->
 <img alt="All teh branches!" src="images/all-teh-branches.jpg" />
 
 
-<!-- .slide: data-state="normal" id="whats-the-solution" data-timing="20" -->
+<!-- .slide: data-state="normal" id="whats-the-solution" data-timing="40" -->
 # What's the solution?
 
 ### Any ideas?
@@ -37,11 +37,11 @@ Note:
 ## Blame it on the tools!  <!-- .element: class="fragment" -->
 
 
-<!-- .slide: data-state="blank-slide" class="full-screen" id="one-job" data-menu-title="You had one job" data-timing="40" -->
+<!-- .slide: data-state="blank-slide" class="full-screen" id="one-job" data-menu-title="You had one job" data-timing="20" -->
 <img alt="You had one job (door with knob on the wrong way)" src="images/one-job.jpg" />
 
 
-<!-- .slide: data-state="normal" id="solution" data-menu-title="Solutions" data-timing="40" -->
+<!-- .slide: data-state="normal" id="solution" data-menu-title="Solutions" data-timing="60" -->
 # What's the solution?
 
 *   Blame it on the tools!
@@ -60,7 +60,7 @@ Note:
   between commits, and commits between branches.
 
 
-<!-- .slide: data-state="section-break" id="demos" data-menu-title="Demos" data-timing="40" -->
+<!-- .slide: data-state="section-break" id="demos" data-menu-title="Demos" data-timing="20" -->
 # Technical demos galore!
 
 
