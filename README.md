@@ -7,6 +7,10 @@ This repo contains the source code for slides and demos presented at
 Nashville](https://events.opensuse.org/conferences/oSSN19/program/proposals/2309),
 on Saturday 6<sup>th</sup> April 2019.
 
+**You can
+[view the slides online](http://aspiers.github.io/nashville-git-automagic-april-2019/)
+here**; press `Space` to advance 1 slide at a time, or `?` for help.
+
 It is based on
 [a template by Adam Spiers](https://github.com/aspiers/presentation-template/)
 which is in turn based on
@@ -14,10 +18,6 @@ which is in turn based on
 which uses [`reveal.js`](https://github.com/hakimel/reveal.js/) (by
 Hakim El-Hattab and contributors) as the underlying presentation
 technology.
-
-**You can
-[view the slides online](http://aspiers.github.io/nashville-git-automagic-april-2019/)
-here**; press `Space` to advance 1 slide at a time, or `?` for help.
 
 ## How to use
 
